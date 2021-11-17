@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculo de capital", "Calculo de capital\Calculo de capital.csproj", "{CCE0CAE3-0A7C-4FBE-BC8F-8B8E0AD4572B}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{CCE0CAE3-0A7C-4FBE-BC8F-8B8E0AD4572B}.Debug.ActiveCfg = Debug|.NET
+		{CCE0CAE3-0A7C-4FBE-BC8F-8B8E0AD4572B}.Debug.Build.0 = Debug|.NET
+		{CCE0CAE3-0A7C-4FBE-BC8F-8B8E0AD4572B}.Release.ActiveCfg = Release|.NET
+		{CCE0CAE3-0A7C-4FBE-BC8F-8B8E0AD4572B}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
